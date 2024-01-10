@@ -6,13 +6,21 @@ h1{
 
     font-family: 'Times New Roman', Times, serif;
 }
-a:hover{
-    color: brown;
-    text-decoration: underline;
+
+a:link{
+font-weight: bold;
+color: black;
 }
+
+
 
 a:visited{
     color: black;
+    text-decoration: underline;
+}
+
+a:hover{
+    color: brown;
     text-decoration: underline;
 }
 
