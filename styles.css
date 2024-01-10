@@ -1,0 +1,25 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+h1{
+
+    font-family: 'Times New Roman', Times, serif;
+}
+nav a:hover{
+    color: brown;
+    text-decoration: underline;
+}
+
+img{
+    width: 800px;
+}
+
+.logo{
+    font-size: 30px;
+}
+
+footer{
+   
+    padding: 12px;
+    margin: 16px;
+}
