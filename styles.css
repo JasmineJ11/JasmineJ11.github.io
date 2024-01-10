@@ -11,6 +11,11 @@ a:hover{
     text-decoration: underline;
 }
 
+a:visited{
+    color: black;
+    text-decoration: underline;
+}
+
 img{
     width: 800px;
 }
