@@ -18,11 +18,22 @@ img{
     font-size: 30px;
 }
 
-footer{
-   
-    padding: 12px;
-    margin: 16px;
+.rlink:link{
+    color: black;
+    text-decoration: none;
 }
+
+.rlink:visited{
+    color: black;
+    text-decoration: none;
+}
+
+.rlink:hover{
+    color: darkred;
+    text-decoration: underline;
+}
+
+
 
 span{
     background-color: rgb(178, 176, 179);
